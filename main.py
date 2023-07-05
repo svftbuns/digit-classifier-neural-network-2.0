@@ -43,5 +43,5 @@ Epoch 8/10, Train Loss=0.07979329207067799, Val Accuracy=0.779, Time Elapsed=5.9
 Epoch 9/10, Train Loss=0.07593468929775744, Val Accuracy=0.768, Time Elapsed=5.9968 mins
 Epoch 10/10, Train Loss=0.07345111020646794, Val Accuracy=0.807, Time Elapsed=9.0547 mins 
 
-Kaggle Test Score: 0.80657
+Kaggle Test Score: 0.80657 
 """
