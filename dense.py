@@ -10,9 +10,7 @@ class Dense(Layer):
         self.activ_func=None
         
         # Figure out which activation is used
-        if activation=='ReLU':
-            self.activ_func=ReLU()
-        elif activation=='Sigmoid':
+        if activation=='Sigmoid':
             self.activ_func=Sigmoid()
         elif activation=='Softmax':
             self.activ_func=Softmax()           
