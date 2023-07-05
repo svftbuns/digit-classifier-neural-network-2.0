@@ -4,7 +4,7 @@ This is a continuation of my previous repository, digit-classifier-neural-networ
 
 <a href="https://github.com/svftbuns/digit-classifier-neural-network-v1.0">View the first version (DNN)</a>
 
-## CNN model layers
+## CNN layers
 - Convolutional Layer
 - Activation Layer
 - Reshape Layer
