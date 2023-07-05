@@ -7,7 +7,6 @@ This is a continuation of my previous repository, digit-classifier-neural-networ
 ## CNN layers
 - Convolutional Layer
 - Activation Layer
-- Reshape Layer
 - MaxPooling Layer
 - Dropout Layer
 - Dense Layer
